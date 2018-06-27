@@ -1,5 +1,6 @@
 const app = "I don't do much."
 
+<<<<<<< HEAD
 var destructivelyAppendKitten = (name) => {
   return window.kittens.push(name)
 }
@@ -32,3 +33,5 @@ var removeLastKitten = () => {
 var removeFirstKitten = () => {
   return window.kittens.slice(1)
 }
+=======
+>>>>>>> a3adbb4900ba52ac03c6dc79c53b96ff00b6e554
